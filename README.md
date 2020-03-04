@@ -1,1 +1,1 @@
-# Python_study_
+# 파이썬 정리용
